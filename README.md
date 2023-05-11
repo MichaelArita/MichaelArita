@@ -30,9 +30,16 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 # My Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=ReaPer)](https://github.com/oslabs-beta/ReaPer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelArita&repo=Genrefy)](https://github.com/MichaelArita/Genrefy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YumzAndCo&repo=Yumz-3.0)](https://github.com/YumzAndCo/Yumz-3.0)
+<p align="left">
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=ReaPer)](https://github.com/oslabs-beta/ReaPer) -->
+  <a href="https://github.com/oslabs-beta/ReaPer"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=ReaPer&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelArita&repo=Genrefy)](https://github.com/MichaelArita/Genrefy) -->
+  <a href="https://github.com/MichaelArita/Genrefy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelArita&repo=Genrefy&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YumzAndCo&repo=Yumz-3.0)](https://github.com/YumzAndCo/Yumz-3.0) -->
+  <a href="https://github.com/YumzAndCo/Yumz-3.0"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YumzAndCo&repo=Yumz-3.0&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+</p>
+
+<!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> -->
 
 <!--
 **MichaelArita/MichaelArita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
