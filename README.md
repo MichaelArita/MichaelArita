@@ -9,6 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=648FFF&center=true&width=435&lines=Full-stack+software+engineer;Open-source+contributor" alt="Typing SVG" /></a>
 </p>
 
+<!--https://github.com/Ileriayo/markdown-badges-->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,6 +28,11 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelArita&repo=Genrefy)](https://github.com/MichaelArita/Genrefy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=ReaPer)](https://github.com/oslabs-beta/ReaPer)
 
 <!--
 **MichaelArita/MichaelArita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
