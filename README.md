@@ -3,6 +3,7 @@
     <img src="https://raw.githubusercontent.com/MichaelArita/MichaelArita/main/githubHeader.png" alt="Michael Arita">
   </a>
 </p>
+<!--Font color: #648FFF -->
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3E7AB8&center=true&width=435&lines=Full-stack+software+engineer" alt="Typing SVG" /></a>
