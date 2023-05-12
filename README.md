@@ -9,9 +9,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=648FFF&center=true&width=435&lines=Full-stack+software+engineer;Open-source+contributor" alt="Typing SVG" /></a>
 </p>
 
+# My Top Respositories
+<p align="left">
+  <!--https://github.com/anuraghazra/github-readme-stats-->
+  <!--https://github.com/DenverCoder1/github-readme-stats-->
+  <a href="https://github.com/oslabs-beta/ReaPer"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=ReaPer&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+  <a href="https://github.com/MichaelArita/Genrefy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelArita&repo=Genrefy&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+  <a href="https://github.com/YumzAndCo/Yumz-3.0"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YumzAndCo&repo=Yumz-3.0&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+  <a href="https://github.com/MyAnimeCatalog/MyAnimeCatalog"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MyAnimeCatalog&repo=MyAnimeCatalog&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+</p>
 
-<details open>
-  <summary><h1>Technologies</h1></summary>
+<details>
+  <summary><h1>Technologies:</h1></summary>
   <!--https://github.com/Ileriayo/markdown-badges-->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -33,15 +42,7 @@
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
 </details>
 
-# My Top Respositories
-<p align="left">
-  <!--https://github.com/anuraghazra/github-readme-stats-->
-  <!--https://github.com/DenverCoder1/github-readme-stats-->
-  <a href="https://github.com/oslabs-beta/ReaPer"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=ReaPer&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-  <a href="https://github.com/MichaelArita/Genrefy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelArita&repo=Genrefy&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-  <a href="https://github.com/YumzAndCo/Yumz-3.0"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YumzAndCo&repo=Yumz-3.0&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-  <a href="https://github.com/MyAnimeCatalog/MyAnimeCatalog"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MyAnimeCatalog&repo=MyAnimeCatalog&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-</p>
+
 
 <!--
 **MichaelArita/MichaelArita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
