@@ -37,6 +37,7 @@
   <a href="https://github.com/MichaelArita/Genrefy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelArita&repo=Genrefy&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
   <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YumzAndCo&repo=Yumz-3.0)](https://github.com/YumzAndCo/Yumz-3.0) -->
   <a href="https://github.com/YumzAndCo/Yumz-3.0"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=YumzAndCo&repo=Yumz-3.0&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+  <a href="https://github.com/MyAnimeCatalog/MyAnimeCatalog"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MyAnimeCatalog&repo=MyAnimeCatalog&theme=react&bg_color=1F222E&title_color=648FFF&hide_border=true&icon_color=F8D866&show_icons=false"></a>
 </p>
 
 <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> -->
